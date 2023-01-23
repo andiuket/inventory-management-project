@@ -1,6 +1,6 @@
 package WareHouse;
 
-import java.util.ArrayList;
+import java.util.*;
 
 public class InventoryMgt {
     private ArrayList<Stock> stockUnit;
@@ -23,9 +23,10 @@ public class InventoryMgt {
     public boolean returnedItems(String stockName, int quantity){
         Stock exitingStock = findStock(stockName);
         if(exitingStock != null){
-            exitingStock.Stock
+
 
         }
+        return false;
 
     }
 

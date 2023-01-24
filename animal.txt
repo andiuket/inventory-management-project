@@ -1,1 +1,2 @@
 Checking the functions git
+Adding more text to this file so i can use git pull
